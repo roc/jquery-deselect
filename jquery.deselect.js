@@ -1,4 +1,4 @@
-/** To Ensure body is not selected during boxy dragging, for example.
+/** To Ensure body is not selected during a UI element dragging, for example.
     * Culled from various sources:
         * https://github.com/mathiasbynens/jquery-noselect/blob/master/jquery.noselect.js
         * https://developer.mozilla.org/en-US/docs/CSS/user-select
